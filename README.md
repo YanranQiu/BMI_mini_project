@@ -1,0 +1,1 @@
+# BMI_mini_project
